@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bab\'Art</string>
+    <string name="stringYouDied">Perdu!</string>
+    <string name="stringTryAgain">Réessayer</string>
+    <string name="stringScoreInGame">Score: %d</string>
+    <string name="stringHighScoreInGame">Highscore: %d</string>
+    <string name="stringChangeGame">Changer de jeu</string>
+</resources>

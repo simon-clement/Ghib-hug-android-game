@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MainVertexShader">
+        "precision highp float;\n
+        uniform float uRatio;\n
+        uniform vec4 uTexVec;\n
+        uniform mat4 uFinalMatrix;\n
+        attribute vec4 aPosition;\n
+        attribute vec2 aTextureCoord;\n
+        varying vec2 vTextureCoord;\n
+        void main() {\n
+          vec2 pos = (uFinalMatrix * aPosition).xy;\n
+          gl_Position = vec4(pos, 0.0, 1.0);\n
+          vTextureCoord = aTextureCoord * uTexVec.xy + uTexVec.zw;\n
+        }\n"
+    </string>
+    <string name="MainFragmentShader">
+        "precision lowp float;\n
+        varying vec2 vTextureCoord;\n
+        uniform sampler2D sTexture;\n
+        void main() {\n
+          gl_FragColor=texture2D(sTexture,vTextureCoord);\n
+        }\n"
+    </string>
+</resources>

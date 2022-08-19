@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ghib\'Hug</string>
+    <string name="stringScoreInGame">Score: %d</string>
+</resources>

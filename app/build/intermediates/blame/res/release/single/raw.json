@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/release/raw/music_game.ogg",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/music_game.ogg"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/release/raw/sound_dead.ogg",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/sound_dead.ogg"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/release/raw/sound_win.ogg",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/sound_win.ogg"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/release/raw/password.txt",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/password.txt"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/release/raw/sound_laser.ogg",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/sound_laser.ogg"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/release/raw/videopening.mp4",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/videopening.mp4"
+    }
+]

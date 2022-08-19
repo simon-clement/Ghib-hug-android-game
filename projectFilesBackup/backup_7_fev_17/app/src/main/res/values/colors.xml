@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorScoreInGame">#80F080</color>
+    <color name="colorYouDied">#FF08F0</color>
+    <color name="colorTryAgain">#3F3FFF</color>
+    <color name="colorChangeGame">#FF4081</color>
+</resources>

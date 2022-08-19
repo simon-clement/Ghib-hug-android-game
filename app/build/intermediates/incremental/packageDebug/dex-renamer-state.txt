@@ -1,0 +1,7 @@
+#Thu Mar 02 14:55:34 CET 2017
+base.0=/home/carotte/Documents/codons/bab_art/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6053f8c6baed2f70f10740bc16e2a7e65a015217
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/carotte/Documents/codons/bab_art/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5128647eeb92ff492f253ba1c2d00dd704f61260/classes.dex
+base.1=/home/carotte/Documents/codons/bab_art/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5128647eeb92ff492f253ba1c2d00dd704f61260
+file.0=/home/carotte/Documents/codons/bab_art/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6053f8c6baed2f70f10740bc16e2a7e65a015217/classes.dex

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/debug/raw/ground.png",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/ground.png"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/debug/raw/tex_ball.jpg",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/tex_ball.jpg"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/debug/raw/wall.png",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/wall.png"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/debug/raw/texsurfaces.png",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/texsurfaces.png"
+    },
+    {
+        "merged": "/home/carotte/Documents/codons/bab_art/app/build/intermediates/res/merged/debug/raw/earth.png",
+        "source": "/home/carotte/Documents/codons/bab_art/app/src/main/res/raw/earth.png"
+    }
+]
